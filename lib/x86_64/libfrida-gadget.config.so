@@ -1,6 +1,0 @@
-{
-    "interaction": {
-      "type": "script",
-      "path": "libfrida-gadget.script.so"
-    }
-}
